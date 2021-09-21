@@ -8,8 +8,8 @@ d = duration // 86400
 
 
 print(d, "дн", h, 'час', m, 'мин', s, 'сек')
-#Задание_2
 
+#Задание 2
 
 
 arr = [num ** 3 for num in range(1, 1001, 2)]
